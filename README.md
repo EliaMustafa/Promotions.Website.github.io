@@ -1,2 +1,2 @@
-# Promotions.Website.github.io
+# Good.Website.github.io
 Websites Project
